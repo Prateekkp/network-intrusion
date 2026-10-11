@@ -1,0 +1,14 @@
+# environment variables
+venv/
+.venv/
+env/    
+
+# Python cache
+__pycache__/
+*.py[cod]
+*$py.class
+.pytest_cache/
+.ipynb_checkpoints/
+
+# datasets
+dataset/*.csv
