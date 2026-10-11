@@ -5,3 +5,4 @@ xgboost
 polars
 matplotlib
 pytest
+seaborn
