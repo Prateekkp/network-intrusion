@@ -6,3 +6,9 @@ polars
 matplotlib
 pytest
 seaborn
+numpy
+joblib
+tensorflow
+numpy
+joblib
+tensorflow
